@@ -1,0 +1,81 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	27375	15321	2354	975	707	
+"China"	17925	6218	832	308	194	
+"India"	5992	4943	590	251	180	
+"Bangladesh"	830	1514	397	155	131	
+"Viet Nam"	505	243	62	25	39	
+"Turkey"	270	309	108	40	25	
+"Indonesia"	859	432	61	7	24	
+"Philippines"	27	8	5	1	17	
+"Cambodia"	58	293	56	18	14	
+"Morocco"	8	35	11	26	14	
+"Spain"	2		0	12	13	
+"Portugal"	17	18	13	37	12	
+"Pakistan"	340	635	86	21	9	
+"Guatemala"			3	0	7	
+"Myanmar"	12	76	14	6	5	
+"Sri Lanka"	19	87	33	4	4	
+"United Arab Emirates"	160	123	23	4	3	
+"Germany"			1	1	2	
+"Italy"	5	3	8	4	2	
+"Madagascar"	No Quantity	1	1	1	2	
+"Bulgaria"		12	1	1	1	
+"France"	3	2	1	1	1	
+"Japan"				0	1	
+"Malaysia"	2	2	1	6	1	
+"Mauritius"		10	2	0	1	
+"Peru"			1	1	1	
+"Romania"	2	33	3	1	1	
+"Tunisia"	1	7	4	3	1	
+"Egypt"	67	29	11	22	1	
+"United Kingdom"		8	1	2	1	
+"United States of America"	3		8	4	1	
+"Montenegro"					0	
+"Ukraine"			0	0	0	
+"Albania"			0		0	
+"Bahrain"			3	3	0	
+"Greece"			0	0	0	
+"Taipei, Chinese"	5		0	0	0	
+"Netherlands"			0	0	0	
+"Thailand"	179	142	3	3	0	
+"Korea, Democratic People's Republic of"				0		
+"Korea, Republic of"	4		0	1		
+"Lao People's Democratic Republic"			0			
+"Vanuatu"	No Quantity					
+"Europe Othr. Nes"			0			
+"United States Minor Outlying Islands"			0			
+"Area Nes"	64	53		1		
+"Australia"			0	0		
+"Belgium"				0		
+"Brazil"			0			
+"Canada"				0		
+"Colombia"			0			
+"Denmark"			0			
+"Dominican Republic"	6	33				
+"El Salvador"		8	1	0		
+"Ethiopia"			0			
+"Georgia"		1	1			
+"Haiti"	8	9	0			
+"Honduras"	1		1			
+"Hong Kong, China"	No Quantity		1			
+"Hungary"			0			
+"Jordan"		12	2	0		
+"Kuwait"			1			
+"Lebanon"	1		0	1		
+"Latvia"				0		
+"Luxembourg"			0			
+"Macao, China"		3				
+"Maldives"		5				
+"Mexico"			1			
+"Mongolia"		3				
+"Moldova, Republic of"		2				
+"Oman"			0	0		
+"New Zealand"			0			
+"Nicaragua"			0			
+"Poland"		3	4	1		
+"Singapore"		2				
+"Slovakia"			0			
+"Sweden"			1			
+"Switzerland"				0		
+"Macedonia, North"			0			
+"Venezuela, Bolivarian Republic of"		4				

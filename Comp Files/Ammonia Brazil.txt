@@ -1,0 +1,8 @@
+﻿Exporters	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	
+"World"	92725	68439	77793	58945	79284	
+"Trinidad and Tobago"	92667	68396	74172	58895	71441	
+"United States of America"	57	43	3620	50	29	
+"Argentina"	0	0	0	0	3105	
+"China"	0	0	1	0	0	
+"Switzerland"	1	0	0	0	0	
+"Egypt"	0	0	0	0	4710	

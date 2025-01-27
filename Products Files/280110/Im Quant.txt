@@ -1,0 +1,11 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	7199	7038	6781	7217	7935	
+"Kuwait"	6510	6524	5826	6505	7670	
+"China"	599	514	955	711	243	
+"United Kingdom"				1	18	
+"Ireland"					2	
+"Korea, Republic of"					1	
+"Malaysia"					1	
+"United States of America"	60				0	
+"Area Nes"	No Quantity					
+"Japan"	30					

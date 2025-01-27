@@ -1,0 +1,5 @@
+﻿Exporters	Imported value in 2015	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	
+"World"	547	411	391	602	259	
+"Saudi Arabia"	533	394	361	506	215	
+"Kuwait"	14	15	31	95	43	
+"United Kingdom"	0	2	0	2	0	

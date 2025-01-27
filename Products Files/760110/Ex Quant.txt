@@ -1,0 +1,46 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	509286	467394	444020	397489	454161	
+"Japan"	126258	173124	104096	115191	101282	
+"Malaysia"	58594	24516	26907	26477	84892	
+"Thailand"	38184	50440	50529	55764	63169	
+"Korea, Republic of"	76444	5439	21809	13092	44842	
+"Netherlands"	3294	59294	36087	40034	39047	
+"Taipei, Chinese"	46994	44866		23907	29254	
+"France"	11008	22720	10275	14392	15131	
+"Singapore"	1136	698	1451	10692	10464	
+"Brazil"	11203		15138	4987	9483	
+"Pakistan"	396	199	691	787	9019	
+"China"	10266		24225	1246	7469	
+"Italy"	42416	20614	32105	30362	7129	
+"India"	2314	624	1483	2087	6101	
+"Turkey"	18049	2026	7788	4737	5785	
+"Viet Nam"	4051	9165	4930	2056	4442	
+"Indonesia"	3910	7181	3540	3889	4068	
+"Egypt"	3488	1942	4875	5972	4007	
+"Bangladesh"	4065	2511	797	18973	2550	
+"Spain"	3183	261	5001	2752	2196	
+"United States of America"	33228	6987	3583	50	1927	
+"Kuwait"				749	699	
+"Iraq"					296	
+"Mexico"				100	250	
+"United Arab Emirates"			1120	240	224	
+"Switzerland"			612		210	
+"Hong Kong, China"					124	
+"Tanzania, United Republic of"					100	
+"Korea, Democratic People's Republic of"	656					
+"Area Nes"	29	55				
+"Asia not elsewhere specified"			55140			
+"Angola"	251	439		201		
+"Bahrain"	2781	21069	29909	16750		
+"Belgium"	3891	1483				
+"Cambodia"	63					
+"Canada"			880	1505		
+"Croatia"	114					
+"Ghana"			501			
+"Greece"	305					
+"Morocco"	1773					
+"Oman"		11558				
+"Philippines"			50	300		
+"Qatar"	218	87				
+"Russian Federation"		96				
+"United Kingdom"	724		502	200		

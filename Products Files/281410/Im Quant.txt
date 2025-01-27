@@ -1,0 +1,11 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	121	69	82	242	58	
+"Jordan"			75	64	45	
+"India"				25	13	
+"Area Nes"	21	38				
+"China"			7	1		
+"Kuwait"	100					
+"Russian Federation"		19				
+"Spain"			1			
+"Egypt"		12		152		
+"United States of America"				0		

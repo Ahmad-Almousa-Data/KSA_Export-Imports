@@ -1,0 +1,17 @@
+﻿Importers	Exported value in 2016	Exported value in 2017	Exported value in 2018	Exported value in 2019	Exported value in 2020	
+"World"	2234	35529	2612	17893	6289	
+"Area Nes"	46	48	0	0	0	
+"Bangladesh"	0	0	0	296	0	
+"Sri Lanka"	0	0	0	737	0	
+"Iraq"	0	0	0	845	4289	
+"Jordan"	0	0	0	125	0	
+"Kenya"	0	0	0	0	227	
+"Oman"	0	122	0	0	0	
+"Qatar"	0	167	0	0	0	
+"South Africa"	0	0	0	263	0	
+"Egypt"	0	0	0	4446	0	
+"Tanzania, United Republic of"	0	0	0	0	67	
+"Bahrain"	0	0	6	0	32	
+"Sudan"	0	0	19	0	0	
+"Lebanon"	0	0	473	0	0	
+"United Arab Emirates"	2188	35192	2114	11181	1674	

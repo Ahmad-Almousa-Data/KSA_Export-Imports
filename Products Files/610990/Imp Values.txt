@@ -1,0 +1,78 @@
+﻿Exporters	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	
+"World"	99717	108933	92741	115802	70642	
+"China"	31896	43526	41638	39024	31159	
+"Bangladesh"	8618	8243	9941	21082	9647	
+"India"	6494	7254	3920	9100	6859	
+"Viet Nam"	3474	4455	4745	7538	6359	
+"Cambodia"	11575	13106	9796	11565	4969	
+"Turkey"	9256	10522	7724	7195	2407	
+"Indonesia"	4178	2496	1689	2155	1939	
+"Pakistan"	1221	1495	835	1937	963	
+"Portugal"	4553	1662	768	1817	836	
+"Egypt"	1066	2676	365	1184	720	
+"Thailand"	4909	3212	2921	852	513	
+"Italy"	1262	939	641	1048	504	
+"United Kingdom"	99	313	409	254	459	
+"Morocco"	1473	700	858	752	458	
+"Philippines"	1760	1804	1704	1152	415	
+"Myanmar"	60	139	200	873	411	
+"Sri Lanka"	1481	1419	609	1076	370	
+"United States of America"	1025	76	123	147	234	
+"United Arab Emirates"	835	366	545	813	212	
+"Spain"	574	892	242	516	145	
+"Germany"	211	0	41	159	128	
+"Korea, Republic of"	0	0	221	523	125	
+"Uzbekistan"	0	0	13	55	95	
+"Mexico"	78	112	42	115	82	
+"Jordan"	249	310	203	385	64	
+"Bulgaria"	118	320	283	19	53	
+"El Salvador"	166	0	85	64	52	
+"Switzerland"	0	0	34	20	46	
+"Serbia"	0	0	0	28	42	
+"Honduras"	327	0	85	154	40	
+"Tunisia"	227	277	692	205	36	
+"France"	158	354	134	75	35	
+"Guatemala"	0	0	19	4	29	
+"Mauritius"	108	107	101	18	27	
+"Georgia"	189	0	25	31	22	
+"Taipei, Chinese"	0	0	29	3345	22	
+"Europe Othr. Nes"	0	0	93	0	21	
+"Malaysia"	823	731	150	189	19	
+"Greece"	107	94	77	0	18	
+"Bahrain"	0	0	18	0	15	
+"Hong Kong, China"	0	0	30	16	15	
+"South Africa"	0	0	26	0	15	
+"Belgium"	0	0	5	0	11	
+"Canada"	0	0	0	0	7	
+"Lebanon"	0	0	0	0	7	
+"Denmark"	0	0	0	3	6	
+"Nicaragua"	0	0	20	31	6	
+"Romania"	132	69	214	55	5	
+"Haiti"	0	0	55	13	4	
+"Japan"	0	0	26	0	4	
+"Poland"	0	0	40	19	4	
+"Australia"	0	0	4	3	3	
+"Hungary"	0	0	13	3	3	
+"Madagascar"	0	0	21	0	3	
+"Lao People's Democratic Republic"	0	53	3	0	0	
+"Tokelau"	0	0	19	0	0	
+"Ukraine"	0	0	3	98	0	
+"Area Nes"	984	1030	0	14	0	
+"Albania"	0	0	32	0	0	
+"Belize"	0	0	15	0	0	
+"Chile"	0	0	5	0	0	
+"Cyprus"	0	0	5	5	0	
+"Dominican Republic"	0	0	7	0	0	
+"Ethiopia"	0	0	8	29	0	
+"Kuwait"	0	0	11	0	0	
+"Lesotho"	0	41	11	0	0	
+"Lithuania"	0	0	15	0	0	
+"Luxembourg"	0	0	0	7	0	
+"Macao, China"	0	0	0	3	0	
+"Moldova, Republic of"	0	140	17	0	0	
+"Netherlands"	0	0	4	16	0	
+"Peru"	0	0	64	11	0	
+"Timor-Leste"	0	0	33	0	0	
+"Singapore"	0	0	0	4	0	
+"Slovakia"	33	0	0	0	0	
+"Macedonia, North"	0	0	16	3	0	

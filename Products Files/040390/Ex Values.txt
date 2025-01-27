@@ -1,0 +1,18 @@
+﻿Importers	Exported value in 2016	Exported value in 2017	Exported value in 2018	Exported value in 2019	Exported value in 2020	
+"World"	294820	255736	238124	232503	150720	
+"United Arab Emirates"	94405	79705	72842	72560	45857	
+"Kuwait"	27351	74946	75531	72531	42080	
+"Oman"	63454	48258	50737	51127	27709	
+"Bahrain"	29293	29245	32070	27837	27374	
+"Jordan"	4705	5035	4489	5006	5803	
+"Yemen"	178	594	1352	1756	1311	
+"Palestine, State of"	0	423	64	198	186	
+"Iraq"	303	0	5	59	150	
+"Libya, State of"	0	58	97	176	87	
+"Lebanon"	991	1439	936	1157	62	
+"Egypt"	0	0	0	0	40	
+"Thailand"	0	0	0	94	34	
+"Sudan"	0	0	0	0	22	
+"Area Nes"	253	202	0	0	4	
+"Mauritania"	118	86	0	0	0	
+"Qatar"	73769	15743	0	0	0	

@@ -1,0 +1,31 @@
+﻿Importers	Exported value in 2016	Exported value in 2017	Exported value in 2018	Exported value in 2019	Exported value in 2020	
+"World"	524570	273376	1541988	1648032	1549873	
+"India"	272491	82041	783734	900444	739259	
+"Brazil"	37053	15620	190007	312504	237199	
+"Bangladesh"	8590	18427	156529	84156	135952	
+"United States of America"	10187	0	50192	55149	127372	
+"Kenya"	22682	15670	44456	89266	58427	
+"Australia"	0	0	78064	56216	46420	
+"Pakistan"	37004	46533	0	5250	29025	
+"Korea, Republic of"	50209	35204	30090	15778	27551	
+"South Africa"	0	0	47882	10950	25948	
+"Mozambique"	0	0	8952	4752	22984	
+"China"	10242	4991	10526	0	18566	
+"Uruguay"	0	0	0	0	16097	
+"Thailand"	1755	4400	49695	12426	14700	
+"Tanzania, United Republic of"	13594	0	5250	18051	13617	
+"Turkey"	0	0	0	0	12231	
+"Taipei, Chinese"	39181	27096	0	8939	11047	
+"Senegal"	0	0	0	0	7050	
+"Malawi"	0	0	0	14870	6400	
+"Bahrain"	0	87	77	30	27	
+"Area Nes"	105	30	0	0	0	
+"Asia not elsewhere specified"	0	0	32844	0	0	
+"Argentina"	11242	9625	0	10500	0	
+"Belgium"	0	10293	0	0	0	
+"Iraq"	0	0	43500	48750	0	
+"Japan"	3285	3360	0	0	0	
+"Jordan"	0	0	3	0	0	
+"Morocco"	6381	0	0	0	0	
+"Singapore"	568	0	0	0	0	
+"Sudan"	0	0	10188	0	0	

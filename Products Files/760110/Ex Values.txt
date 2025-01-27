@@ -1,0 +1,46 @@
+﻿Importers	Exported value in 2016	Exported value in 2017	Exported value in 2018	Exported value in 2019	Exported value in 2020	
+"World"	1083300	999936	951749	840479	969837	
+"Japan"	267902	366176	220219	244846	215042	
+"Malaysia"	126072	51889	57390	56548	181374	
+"Thailand"	82367	106204	107744	118576	135107	
+"Korea, Republic of"	163207	11338	46353	27898	95773	
+"Netherlands"	7068	131772	77073	85504	83396	
+"Taipei, Chinese"	100368	94967	0	51060	62479	
+"France"	23046	48523	21944	30737	32315	
+"Singapore"	2426	1491	2682	22775	22734	
+"Brazil"	23926	0	32331	10651	20253	
+"Pakistan"	691	344	1464	1681	19263	
+"Italy"	89325	44026	68189	64845	15226	
+"China"	21926	0	63918	2337	14975	
+"India"	3864	1403	2557	3026	12582	
+"Turkey"	38569	4330	16518	9895	12338	
+"Viet Nam"	8657	19508	10528	4392	10555	
+"Indonesia"	8225	15118	7560	8021	8689	
+"Egypt"	7451	4193	10411	12754	8558	
+"Bangladesh"	8683	5362	1702	40522	6408	
+"Spain"	6796	558	10680	5878	4691	
+"United States of America"	71434	14924	7652	106	4224	
+"Kuwait"	0	0	0	1431	1305	
+"Iraq"	0	0	0	0	961	
+"Mexico"	0	0	0	213	535	
+"Switzerland"	0	0	1307	0	448	
+"United Arab Emirates"	0	0	2117	524	306	
+"Hong Kong, China"	0	0	0	0	160	
+"Tanzania, United Republic of"	0	0	0	0	142	
+"Korea, Democratic People's Republic of"	1400	0	0	0	0	
+"Area Nes"	36	51	0	0	0	
+"Asia not elsewhere specified"	0	0	117782	0	0	
+"Angola"	536	1077	0	428	0	
+"Bahrain"	4479	49310	59501	31548	0	
+"Belgium"	8310	3167	0	0	0	
+"Cambodia"	135	0	0	0	0	
+"Canada"	0	0	1879	3215	0	
+"Croatia"	244	0	0	0	0	
+"Ghana"	0	0	1069	0	0	
+"Greece"	653	0	0	0	0	
+"Morocco"	3785	0	0	0	0	
+"Oman"	0	23898	0	0	0	
+"Philippines"	0	0	106	640	0	
+"Qatar"	173	141	0	0	0	
+"Russian Federation"	0	165	0	0	0	
+"United Kingdom"	1546	0	1072	428	0	

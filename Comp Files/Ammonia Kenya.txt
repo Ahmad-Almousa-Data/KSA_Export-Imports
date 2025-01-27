@@ -1,0 +1,8 @@
+﻿Exporters	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	
+"World"	121	106	145	87	80	
+"India"	93	91	130	74	69	
+"South Africa"	18	4	0	13	11	
+"Belgium"	0	0	14	0	0	
+"Sri Lanka"	10	0	0	0	0	
+"China"	0	11	0	0	0	
+"United Arab Emirates"	0	0	1	0	0	

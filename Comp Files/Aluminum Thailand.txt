@@ -1,0 +1,40 @@
+﻿Exporters	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	
+"World"	535529	766587	785581	698019	532969	
+"Australia"	185729	224984	247299	185030	159152	
+"Saudi Arabia"	60106	107620	103558	102041	106466	
+"South Africa"	108389	205806	159192	149178	72611	
+"Bahrain"	6234	20652	597	46680	44230	
+"India"	12016	42483	114971	91954	36860	
+"United Arab Emirates"	66179	89286	57804	38445	32517	
+"Malaysia"	48517	36989	55857	44109	30091	
+"Qatar"	8007	5573	8830	1159	28599	
+"Oman"	29020	23741	20880	17510	7444	
+"Argentina"	0	1477	0	0	6887	
+"Taipei, Chinese"	746	715	4115	6226	3583	
+"Russian Federation"	820	98	193	3184	2194	
+"Singapore"	440	2167	4071	2199	762	
+"Indonesia"	602	0	0	3994	618	
+"Lithuania"	130	99	0	183	368	
+"United States of America"	849	0	267	2619	269	
+"Japan"	1496	673	1344	1364	196	
+"Lao People's Democratic Republic"	0	0	14	110	42	
+"Thailand"	50	0	0	0	41	
+"China"	2372	404	443	363	38	
+"British Virgin Islands"	109	0	0	0	0	
+"Korea, Republic of"	74	45	2437	0	0	
+"Afghanistan"	0	0	0	913	0	
+"Azerbaijan"	40	0	0	0	0	
+"Armenia"	75	0	0	0	0	
+"Brazil"	0	0	0	451	0	
+"Belarus"	102	485	116	162	0	
+"Georgia"	291	0	0	0	0	
+"Hong Kong, China"	0	0	89	0	0	
+"Latvia"	0	0	0	34	0	
+"New Caledonia"	0	0	69	0	0	
+"New Zealand"	980	0	1107	0	0	
+"Nigeria"	0	419	0	0	0	
+"Peru"	0	40	0	109	0	
+"Philippines"	0	0	2	0	0	
+"Viet Nam"	274	2826	2325	0	0	
+"Eswatini"	1881	0	0	0	0	
+"United Kingdom"	2	3	0	0	0	

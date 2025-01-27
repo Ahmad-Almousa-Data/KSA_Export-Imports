@@ -1,0 +1,22 @@
+﻿Exporters	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	
+"World"	558968	886084	810340	818530	755452	
+"United Arab Emirates"	368392	496081	687602	744880	729147	
+"Russian Federation"	73258	300072	84854	56710	23957	
+"Egypt"	0	395	0	718	2243	
+"Germany"	110597	47174	17998	6064	54	
+"India"	3046	7721	6	13	25	
+"United Kingdom"	0	0	0	7	16	
+"United States of America"	0	4168	870	0	6	
+"Sweden"	0	0	0	0	3	
+"Korea, Republic of"	0	656	0	0	0	
+"Area Nes"	21	33	0	0	0	
+"Belgium"	0	26459	15852	9082	0	
+"Brazil"	2464	2524	0	605	0	
+"China"	0	0	0	22	0	
+"Iraq"	0	0	0	230	0	
+"Jordan"	0	0	0	10	0	
+"Pakistan"	0	0	0	20	0	
+"South Africa"	0	802	0	0	0	
+"Spain"	1189	0	27	0	0	
+"Turkey"	0	0	73	170	0	
+"Uzbekistan"	0	0	3059	0	0	

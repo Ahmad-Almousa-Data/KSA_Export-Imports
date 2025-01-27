@@ -1,0 +1,59 @@
+﻿Exporters	Imported value in 2015	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	
+"World"	23078	18515	25093	25171	27238	
+"Saudi Arabia"	7983	2235	6435	8740	8045	
+"Turkey"	7981	7865	9087	7359	7453	
+"New Zealand"	723	792	607	1286	1864	
+"Philippines"	459	646	809	1143	1760	
+"United Kingdom"	1277	974	1312	890	1701	
+"Netherlands"	265	711	485	342	1084	
+"United States of America"	759	867	924	701	686	
+"Denmark"	0	1172	652	14	577	
+"Switzerland"	63	124	7	158	410	
+"Germany"	283	194	627	363	381	
+"Ukraine"	212	237	240	323	354	
+"Jordan"	664	123	272	408	332	
+"Canada"	0	0	9	0	319	
+"India"	158	61	122	484	254	
+"France"	422	279	502	747	240	
+"Italy"	66	10	88	242	228	
+"Iran, Islamic Republic of"	230	667	678	52	227	
+"Lithuania"	51	59	88	160	169	
+"Thailand"	4	0	18	177	168	
+"Belgium"	7	13	122	256	157	
+"Lebanon"	220	287	219	119	128	
+"Syrian Arab Republic"	208	98	91	196	104	
+"Argentina"	0	0	0	0	81	
+"Bangladesh"	0	0	26	21	65	
+"Pakistan"	4	7	60	63	60	
+"Japan"	7	0	22	49	59	
+"Malaysia"	0	0	0	0	59	
+"Australia"	37	11	36	97	58	
+"Hungary"	82	133	141	87	55	
+"Poland"	0	0	0	0	47	
+"Sweden"	615	239	575	46	47	
+"Austria"	24	35	35	26	44	
+"Ireland"	191	290	452	481	16	
+"Latvia"	0	6	16	12	4	
+"Finland"	0	0	0	0	2	
+"Area Nes"	0	0	0	55	0	
+"Azerbaijan"	0	16	0	0	0	
+"Bahamas"	0	0	1	0	0	
+"Bahrain"	7	0	0	0	0	
+"Belarus"	42	52	31	6	0	
+"Croatia"	0	2	0	0	0	
+"Czech Republic"	0	0	2	0	0	
+"Greece"	0	4	7	6	0	
+"Indonesia"	0	2	0	0	0	
+"Luxembourg"	0	0	1	0	0	
+"Taipei, Chinese"	2	0	0	0	0	
+"Morocco"	0	1	0	0	0	
+"Oman"	0	6	47	0	0	
+"Portugal"	0	31	0	41	0	
+"Serbia"	4	4	1	0	0	
+"Slovakia"	0	4	0	0	0	
+"South Africa"	17	244	238	0	0	
+"Spain"	1	0	7	19	0	
+"Suriname"	7	0	0	0	0	
+"Egypt"	3	15	0	0	0	
+"Uzbekistan"	1	0	0	0	0	
+"Yemen"	0	0	0	0	0	

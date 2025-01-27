@@ -1,0 +1,20 @@
+﻿Exporters	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	
+"World"	58622	40110	22926	68336	28548	
+"Belgium"	17245	15522	12201	11097	9937	
+"United Arab Emirates"	0	330	0	1407	8756	
+"Russian Federation"	32793	20887	0	47215	7702	
+"Germany"	4448	3363	7434	6650	1806	
+"Italy"	4125	0	9	7	175	
+"Spain"	0	0	0	0	129	
+"Turkey"	0	2	53	0	32	
+"Taipei, Chinese"	0	0	0	11	10	
+"Korea, Republic of"	0	1	0	0	0	
+"Austria"	3	0	0	0	0	
+"China"	1	0	9	26	0	
+"France"	3	0	0	0	0	
+"Jordan"	0	0	0	0	0	
+"Romania"	0	0	0	1	0	
+"Saudi Arabia"	0	0	3209	1894	0	
+"India"	2	0	5	3	0	
+"United Kingdom"	2	3	0	25	0	
+"United States of America"	0	1	6	0	0	

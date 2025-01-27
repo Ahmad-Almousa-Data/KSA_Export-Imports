@@ -1,0 +1,41 @@
+﻿Exporters	Imported value in 2015	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	
+"World"	22922	40435	28645	31707	28882	
+"Saudi Arabia"	10946	28487	20312	20399	18049	
+"Turkey"	6558	7682	5594	7030	6195	
+"United Arab Emirates"	923	873	1923	2239	2108	
+"United States of America"	232	267	245	251	972	
+"Iran, Islamic Republic of"	575	91	47	365	457	
+"Lebanon"	70	17	54	58	175	
+"Italy"	0	7	126	229	170	
+"Philippines"	0	13	176	234	147	
+"Thailand"	0	0	0	0	116	
+"Oman"	0	0	0	0	85	
+"Denmark"	0	0	0	0	70	
+"Bahrain"	80	242	2	524	66	
+"Sri Lanka"	0	0	0	0	50	
+"Spain"	94	51	17	15	50	
+"Netherlands"	47	0	2	0	35	
+"India"	24	130	28	73	35	
+"Syrian Arab Republic"	0	5	41	24	30	
+"Malaysia"	0	28	0	0	26	
+"Jordan"	8	39	10	108	10	
+"Germany"	105	58	15	17	7	
+"Greece"	3	0	22	0	6	
+"Indonesia"	0	3	0	0	5	
+"Poland"	0	39	0	30	5	
+"Egypt"	0	5	0	2	5	
+"Korea, Republic of"	0	0	0	0	3	
+"Morocco"	0	0	0	0	2	
+"United Kingdom"	5	6	23	35	2	
+"Canada"	0	0	0	0	1	
+"France"	0	441	2	10	1	
+"Australia"	688	1332	0	0	0	
+"Belgium"	0	13	0	1	0	
+"Brazil"	2	0	0	0	0	
+"Palestine, State of"	1	13	0	4	0	
+"Hungary"	0	16	7	0	0	
+"Ireland"	2545	540	1	58	0	
+"Mauritius"	0	0	0	1	0	
+"Mexico"	2	0	0	0	0	
+"New Zealand"	0	38	0	0	0	
+"Qatar"	18	0	0	0	0	

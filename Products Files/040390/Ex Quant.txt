@@ -1,0 +1,18 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	227169	199437	188032	186857	113325	
+"United Arab Emirates"	67672	60038	58599	56817	31849	
+"Kuwait"	12392	56634	57080	55591	28405	
+"Bahrain"	20695	18799	19954	23157	25114	
+"Oman"	56184	44415	45734	43589	21267	
+"Jordan"	4509	4819	4456	4701	5153	
+"Yemen"	201	696	1468	1858	1272	
+"Iraq"	221		28	48	100	
+"Libya, State of"		13	66	416	53	
+"Palestine, State of"		251	46	82	50	
+"Lebanon"	821	1463	601	576	28	
+"Egypt"					18	
+"Thailand"				21	8	
+"Area Nes"	131	99			4	
+"Sudan"					4	
+"Mauritania"	35	43				
+"Qatar"	64308	12167				

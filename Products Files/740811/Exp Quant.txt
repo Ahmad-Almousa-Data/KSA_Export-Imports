@@ -1,0 +1,17 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	417	5350	399	2934	894	
+"Iraq"				135	586	
+"United Arab Emirates"	402	5254	315	1864	278	
+"Tanzania, United Republic of"					14	
+"Kenya"					13	
+"Bahrain"			10		3	
+"Area Nes"	15	54				
+"Bangladesh"				50		
+"Sri Lanka"				122		
+"Jordan"				22		
+"Lebanon"			73			
+"Oman"		18				
+"Qatar"		24				
+"South Africa"				46		
+"Sudan"			2			
+"Egypt"				696		

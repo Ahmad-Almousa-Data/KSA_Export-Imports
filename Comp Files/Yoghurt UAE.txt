@@ -1,0 +1,51 @@
+﻿Exporters	Imported value in 2015	Imported value in 2016	Imported value in 2017	Imported value in 2018	Imported value in 2019	
+"World"	105639	114067	92551	87853	89204	
+"Saudi Arabia"	87357	97277	76846	72573	74217	
+"United Kingdom"	8489	6362	6310	6519	6477	
+"Greece"	1647	2239	2619	2646	2560	
+"France"	2275	2274	2189	2345	2199	
+"Ireland"	1271	1001	487	773	909	
+"United States of America"	1207	975	992	877	884	
+"Germany"	762	627	529	603	483	
+"Syrian Arab Republic"	56	44	145	51	264	
+"Turkey"	21	27	35	90	186	
+"Switzerland"	1345	1230	1013	210	171	
+"Italy"	53	99	160	157	109	
+"Iran, Islamic Republic of"	131	46	69	57	90	
+"Austria"	118	148	171	177	86	
+"Australia"	299	187	96	133	83	
+"Finland"	0	0	96	101	81	
+"Spain"	22	155	103	85	79	
+"Netherlands"	56	255	3	25	76	
+"New Zealand"	5	41	3	6	57	
+"Philippines"	416	583	365	6	54	
+"Belgium"	8	189	171	157	50	
+"Croatia"	0	0	0	0	25	
+"Ukraine"	5	3	19	62	21	
+"India"	0	0	0	0	11	
+"Latvia"	0	18	37	23	7	
+"Poland"	0	2	0	0	7	
+"Thailand"	0	0	7	20	5	
+"Jordan"	1	5	5	12	3	
+"Korea, Republic of"	8	29	2	1	2	
+"Denmark"	1	7	1	30	2	
+"Lebanon"	0	39	0	28	2	
+"Canada"	0	0	16	0	1	
+"Cyprus"	0	0	0	0	1	
+"Somalia"	0	0	0	0	0	
+"Afghanistan"	1	1	0	1	0	
+"Bahrain"	2	0	0	0	0	
+"Bulgaria"	0	0	7	0	0	
+"Belarus"	0	0	1	0	0	
+"Czech Republic"	0	1	1	0	0	
+"Indonesia"	1	0	0	0	0	
+"Japan"	0	0	0	11	0	
+"Lithuania"	29	16	0	0	0	
+"Malaysia"	0	0	0	0	0	
+"Pakistan"	14	44	2	0	0	
+"Romania"	0	0	0	2	0	
+"Russian Federation"	0	1	0	0	0	
+"South Africa"	34	0	0	0	0	
+"Sweden"	0	142	45	68	0	
+"Tunisia"	0	0	0	2	0	
+"Egypt"	5	0	0	0	0	

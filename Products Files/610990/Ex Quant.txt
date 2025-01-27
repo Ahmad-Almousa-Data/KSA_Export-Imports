@@ -1,0 +1,6 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	
+"World"	48	61	34			
+"Area Nes"	4	19				
+"Bahrain"	44	5	8			
+"India"			6			
+"United Arab Emirates"		37	20			

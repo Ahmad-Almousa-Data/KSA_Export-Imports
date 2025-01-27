@@ -1,0 +1,31 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	1630002	887926	3897452	4862760	5244312	
+"India"	827929	270726	1988960	2583400	2254034	
+"Brazil"	105600	44000	464184	896500	771792	
+"Turkey"					464354	
+"Bangladesh"	26250	52480	381158	250000	426248	
+"United States of America"	56913		122997	172000	361622	
+"Kenya"	64000	44600	102666	274625	181826	
+"Australia"			195736	204000	155993	
+"Korea, Republic of"	171900	130471	88692	58200	118800	
+"Pakistan"	114460	127413		15000	82995	
+"South Africa"			126000	30000	77400	
+"Mozambique"			21150	24000	69798	
+"Uruguay"					58000	
+"Taipei, Chinese"	124007	92775		35000	54000	
+"Thailand"	5500	18820	131955	39147	48000	
+"Tanzania, United Republic of"	35194		15000	60875	43050	
+"China"	31865	22250	28000		31400	
+"Senegal"					25000	
+"Malawi"				40000	20000	
+"Bahrain"		49	53	13	0	
+"Area Nes"	62	34				
+"Asia not elsewhere specified"			106697			
+"Argentina"	30800	27500		30000		
+"Belgium"		46808				
+"Iraq"			100000	150000		
+"Japan"	9440	10000				
+"Jordan"			4			
+"Morocco"	23202					
+"Singapore"	2880					
+"Sudan"			24200			
